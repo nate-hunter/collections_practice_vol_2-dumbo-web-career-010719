@@ -50,6 +50,7 @@ def count_elements(array)
   end.uniq
 end
 
+<<<<<<< HEAD
 
 #-- combines two nested data structures into one
 def merge_data(array_one, array_two)
@@ -93,3 +94,5 @@ def organize_schools(array)
 end
 
 
+=======
+>>>>>>> c7f1c82a70f88508f42a7035ab43871fd36dd628
